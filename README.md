@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AroobAbdelhamid
 - 👀 I’m interested in data science, using machine learning and big data to answer some of humanity's biggest questions!
 - 🌱 I’m currently learning python and machine learning in python
-- 💞️ I’m looking to collaborate on climate data science projects
+- 💞️ I’m looking to collaborate on interesting data science projects!
 - 📫 How to reach me: aroobabdelha at (google) mail dot com
 
 <!---
